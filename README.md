@@ -23,4 +23,4 @@ Implement core data structures from scratch: Linked List, Stack, Queue, and Bina
 - Queue: Enqueue/Dequeue/Front -> O(1)
 - BST: Insert/Search -> O(log n) average, O(n) worst-case
 
-Author - Chandra
+Author - Aayush dangi
