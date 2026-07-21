@@ -15,7 +15,7 @@ Implement core data structures from scratch: Linked List, Stack, Queue, and Bina
 3. README with explanation
 
 ## Sample Output
-![alt text](image.png)
+![alt text](image.jpeg)
 
 ## Complexity Analysis
 - Linked List: Insert/Delete/Search -> O(n)
