@@ -1,0 +1,15 @@
+#ifndef STACK_H
+#define STACK_H
+#include <vector>
+
+class Stack {
+public:
+    void push(int value);
+    void pop();
+    int top();
+    bool isEmpty();
+private:
+    std::vector<int> data;
+};
+
+#endif
